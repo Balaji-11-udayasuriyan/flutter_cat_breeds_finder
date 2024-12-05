@@ -1,0 +1,7 @@
+0 Abyssinian
+1 American Bobtail
+2 Balinese
+3 British Shorthair
+4 Domestic Long Hair
+5 tiger
+6 persian
